@@ -31,7 +31,9 @@ Welcome to the repository for my Machine Learning course taken in the Fall of 20
 
 ## **Repository Structure**
 *Assignments:* Weekly exercises to practice ML techniques and algorithms.
+
 *Projects:* Larger scale projects that encompass end-to-end machine learning processes.
+
 *Homework:* Specific tasks given to further enhance understanding and solidify knowledge.
 
 ## **Tools & Libraries Used**
