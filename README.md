@@ -5,19 +5,24 @@ Welcome to the repository for my Machine Learning course taken in the Fall of 20
 **1. Technical Tools:**
    - Google Colab
    - Jupyter notebook
+
 **2. Data Analysis:**
    - Exploratory Data Analysis
+
 **3. Unsupervised Learning:**
    - Clustering
    - Dimension Reduction
+
 **4. Supervised Learning:**
 - Regression
 - Classification
+
 **5. Advanced ML Algorithms:**
 - Tree-Based Methods
 - Support Vector Machines
 - Neural Networks
 - Reinforcement Learning
+
 **6. ML Applications:**
 - Healthcare
 - Text Data (NLP)
