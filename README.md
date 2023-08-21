@@ -1,4 +1,4 @@
-# Machine-Learning-Course-NYU-GSoM-F2022
+# Machine Learning Course at NYU GSoM (Fall 2022)
 Welcome to the repository for my Machine Learning course taken in the Fall of 2022 at NYU Grossman School of Medicine. This repository contains all my assignments, projects, and homework, showcasing my journey and understanding of the core concepts and applications of machine learning.
 
 ## Topics Covered
